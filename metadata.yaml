@@ -1,5 +1,8 @@
 _repo: Susy-a-Story-of-the-Plains_2495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -13,6 +16,8 @@ description: The heroine of A Waif of the Plains returns in this 1893 novel. Has
   flowing serapes and his flying horsehair lariats...The man who first opened ground
   in an unknown realm of fiction likes to delineate what is pure cussedness,' and
   Susy is a mean girl." The New York Times .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2495#Susy-a-Story-of-the-Plains
 gutenberg_issued: '2006-05-17'
 gutenberg_type: Text
 identifiers:
